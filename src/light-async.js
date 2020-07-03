@@ -10,7 +10,10 @@ export default createAsyncLoadingHighlighter({
       return module.default || module;
     }),
   isLanguageRegistered: (instance, language) => {
-    return !!instance.getLanguage(language);
+    return (
+      !!instance.listLanguages &&
+      instance.listLanguages().indexOf(language) !== -1
+    );
   },
   languageLoaders,
   registerLanguage: (instance, name, language) => {

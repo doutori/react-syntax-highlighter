@@ -266,16 +266,6 @@ function defaultRenderer({ rows, stylesheet, useInlineStyles }) {
 }
 
 function getCodeTree({ astGenerator, language, code, defaultCodeValue }) {
-  if (astGenerator.getLanguage) {
-    const hasLanguage = language && astGenerator.getLanguage(language);
-    if (language === 'text') {
-      return { value: defaultCodeValue, language: 'text' };
-    } else if (hasLanguage) {
-      return astGenerator.highlight(language, code);
-    } else {
-      return astGenerator.highlightAuto(code);
-    }
-  }
   try {
     return language && language !== 'text'
       ? { value: astGenerator.highlight(code, language) }
