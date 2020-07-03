@@ -133,27 +133,378 @@ exports[`SyntaxHighlighter allows lineNumberStyle as function 1`] = `
       </span>
     </code>
     <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
       style={Object {}}
     >
-      const woah = fun =&gt; fun + 1;
+       woah = 
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      fun
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       fun + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
     </span>
-    const dude = woah(2) + 3;
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
+      style={Object {}}
+    >
+       dude = woah(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ) + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
-    function thisIsAFunction() {
+    </span>
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      thisIsAFunction
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return [1,2,3].map(n =&gt; n + 1).filter(n !== 3);
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       [
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ].map(
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      n
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       n + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ).filter(n !== 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     }
 
-    console.log('making up fake code is really hard');
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#397300",
+        }
+      }
+    >
+      console
+    </span>
+    <span
+      style={Object {}}
+    >
+      .log(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'making up fake code is really hard'
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     
 
-    function itIs() {
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      itIs
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return 'no seriously really it is';
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'no seriously really it is'
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
+    </span>
     }
 
     
@@ -295,27 +646,378 @@ exports[`SyntaxHighlighter allows lineNumberStyle as object 1`] = `
       </span>
     </code>
     <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
       style={Object {}}
     >
-      const woah = fun =&gt; fun + 1;
+       woah = 
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      fun
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       fun + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
     </span>
-    const dude = woah(2) + 3;
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
+      style={Object {}}
+    >
+       dude = woah(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ) + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
-    function thisIsAFunction() {
+    </span>
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      thisIsAFunction
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return [1,2,3].map(n =&gt; n + 1).filter(n !== 3);
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       [
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ].map(
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      n
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       n + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ).filter(n !== 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     }
 
-    console.log('making up fake code is really hard');
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#397300",
+        }
+      }
+    >
+      console
+    </span>
+    <span
+      style={Object {}}
+    >
+      .log(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'making up fake code is really hard'
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     
 
-    function itIs() {
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      itIs
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return 'no seriously really it is';
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'no seriously really it is'
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
+    </span>
     }
 
     
@@ -417,27 +1119,378 @@ exports[`SyntaxHighlighter component renders correctly 1`] = `
       </span>
     </code>
     <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
       style={Object {}}
     >
-      const woah = fun =&gt; fun + 1;
+       woah = 
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      fun
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       fun + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
     </span>
-    const dude = woah(2) + 3;
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      const
+    </span>
+    <span
+      style={Object {}}
+    >
+       dude = woah(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ) + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
-    function thisIsAFunction() {
+    </span>
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      thisIsAFunction
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return [1,2,3].map(n =&gt; n + 1).filter(n !== 3);
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       [
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      2
+    </span>
+    <span
+      style={Object {}}
+    >
+      ,
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      ].map(
+    </span>
+    <span
+      className="hljs-function hljs-params"
+      style={Object {}}
+    >
+      n
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       =&gt;
+    </span>
+    <span
+      style={Object {}}
+    >
+       n + 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      1
+    </span>
+    <span
+      style={Object {}}
+    >
+      ).filter(n !== 
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      3
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     }
 
-    console.log('making up fake code is really hard');
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#397300",
+        }
+      }
+    >
+      console
+    </span>
+    <span
+      style={Object {}}
+    >
+      .log(
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'making up fake code is really hard'
+    </span>
+    <span
+      style={Object {}}
+    >
+      );
 
+    </span>
     
 
-    function itIs() {
+    <span
+      style={Object {}}
+    >
+      
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      className="hljs-function"
+      style={
+        Object {
+          "color": "#880000",
+          "fontWeight": "bold",
+        }
+      }
+    >
+      itIs
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+      style={Object {}}
+    >
+      ) 
+    </span>
+    <span
+      style={Object {}}
+    >
+      {
 
-      return 'no seriously really it is';
+    </span>
+    <span
+      style={Object {}}
+    >
+        
+    </span>
+    <span
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    >
+      return
+    </span>
+    <span
+      style={Object {}}
+    >
+       
+    </span>
+    <span
+      style={
+        Object {
+          "color": "#880000",
+        }
+      }
+    >
+      'no seriously really it is'
+    </span>
+    <span
+      style={Object {}}
+    >
+      ;
 
+    </span>
     }
 
     

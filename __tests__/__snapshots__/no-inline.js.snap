@@ -6,27 +6,286 @@ exports[`SyntaxHighlighter component renders correctly without inline styles whe
 >
   <code>
     <span
+      className="hljs-keyword"
+    >
+      const
+    </span>
+    <span
       className=""
     >
-      const woah = fun =&gt; fun + 1;
+       woah = 
+    </span>
+    <span
+      className="hljs-function hljs-params"
+    >
+      fun
+    </span>
+    <span
+      className="hljs-function"
+    >
+       =&gt;
+    </span>
+    <span
+      className=""
+    >
+       fun + 
+    </span>
+    <span
+      className="hljs-number"
+    >
+      1
+    </span>
+    <span
+      className=""
+    >
+      ;
 
     </span>
-    const dude = woah(2) + 3;
+    <span
+      className=""
+    >
+      
+    </span>
+    <span
+      className="hljs-keyword"
+    >
+      const
+    </span>
+    <span
+      className=""
+    >
+       dude = woah(
+    </span>
+    <span
+      className="hljs-number"
+    >
+      2
+    </span>
+    <span
+      className=""
+    >
+      ) + 
+    </span>
+    <span
+      className="hljs-number"
+    >
+      3
+    </span>
+    <span
+      className=""
+    >
+      ;
 
-    function thisIsAFunction() {
+    </span>
+    <span
+      className=""
+    >
+      
+    </span>
+    <span
+      className="hljs-function hljs-keyword"
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+    >
+       
+    </span>
+    <span
+      className="hljs-function hljs-title"
+    >
+      thisIsAFunction
+    </span>
+    <span
+      className="hljs-function"
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+    >
+      ) 
+    </span>
+    <span
+      className=""
+    >
+      {
 
-      return [1,2,3].map(n =&gt; n + 1).filter(n !== 3);
+    </span>
+    <span
+      className=""
+    >
+        
+    </span>
+    <span
+      className="hljs-keyword"
+    >
+      return
+    </span>
+    <span
+      className=""
+    >
+       [
+    </span>
+    <span
+      className="hljs-number"
+    >
+      1
+    </span>
+    <span
+      className=""
+    >
+      ,
+    </span>
+    <span
+      className="hljs-number"
+    >
+      2
+    </span>
+    <span
+      className=""
+    >
+      ,
+    </span>
+    <span
+      className="hljs-number"
+    >
+      3
+    </span>
+    <span
+      className=""
+    >
+      ].map(
+    </span>
+    <span
+      className="hljs-function hljs-params"
+    >
+      n
+    </span>
+    <span
+      className="hljs-function"
+    >
+       =&gt;
+    </span>
+    <span
+      className=""
+    >
+       n + 
+    </span>
+    <span
+      className="hljs-number"
+    >
+      1
+    </span>
+    <span
+      className=""
+    >
+      ).filter(n !== 
+    </span>
+    <span
+      className="hljs-number"
+    >
+      3
+    </span>
+    <span
+      className=""
+    >
+      );
 
+    </span>
     }
 
-    console.log('making up fake code is really hard');
+    <span
+      className=""
+    >
+      
+    </span>
+    <span
+      className="hljs-built_in"
+    >
+      console
+    </span>
+    <span
+      className=""
+    >
+      .log(
+    </span>
+    <span
+      className="hljs-string"
+    >
+      'making up fake code is really hard'
+    </span>
+    <span
+      className=""
+    >
+      );
 
+    </span>
     
 
-    function itIs() {
+    <span
+      className=""
+    >
+      
+    </span>
+    <span
+      className="hljs-function hljs-keyword"
+    >
+      function
+    </span>
+    <span
+      className="hljs-function"
+    >
+       
+    </span>
+    <span
+      className="hljs-function hljs-title"
+    >
+      itIs
+    </span>
+    <span
+      className="hljs-function"
+    >
+      (
+    </span>
+    <span
+      className="hljs-function"
+    >
+      ) 
+    </span>
+    <span
+      className=""
+    >
+      {
 
-      return 'no seriously really it is';
+    </span>
+    <span
+      className=""
+    >
+        
+    </span>
+    <span
+      className="hljs-keyword"
+    >
+      return
+    </span>
+    <span
+      className=""
+    >
+       
+    </span>
+    <span
+      className="hljs-string"
+    >
+      'no seriously really it is'
+    </span>
+    <span
+      className=""
+    >
+      ;
 
+    </span>
     }
 
     
